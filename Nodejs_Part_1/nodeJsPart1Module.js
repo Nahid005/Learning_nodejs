@@ -1,0 +1,1 @@
+const summation = require(./nodeJsPart1Module.js);
